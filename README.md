@@ -1,5 +1,5 @@
 # :rocket: gobarber_backend
- API do gobarber em NodeJs, desenvolvida no GoStack 9.0
+ API do gobarber em NodeJs, desenvolvida no Bootcamp GoStack 9.0 da rocketseat
  
 
 ## 🧐 Sobre o desafio
