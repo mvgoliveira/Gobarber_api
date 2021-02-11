@@ -30,4 +30,4 @@ Essa api tem como principais funções:
 
 <hr>
 
-Feito com 🧡 por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
+Feito com :hearts: por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
