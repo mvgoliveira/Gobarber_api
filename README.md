@@ -1,14 +1,16 @@
-# :rocket: gobarber_backend
+# Gobarber_backend
  API do gobarber em NodeJs, desenvolvida no Bootcamp GoStack 9.0 da rocketseat
  
 
-## 🧐 Sobre o desafio
+## :rocket: Sobre a api
 
-Esse repositório tem a finalidade de armazenar o conteúdo dado durante a Fase 02 do GoStack 9.0.
+A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi desenvolvido uma api que será consumida por uma aplicação web e mobile.
 
-
-
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+Essa api tem como principais funções:
+-
+-
+-
+-
 
 ## 📁 Instalação
 
