@@ -6,7 +6,7 @@
 
 A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi desenvolvido uma api que será consumida por uma aplicação web e mobile.
 
-Essa api tem como principais funções:
+### Essa api tem como principais funções:
 -
 -
 -
