@@ -2,7 +2,7 @@
  API do gobarber em NodeJs, desenvolvida no Bootcamp GoStack 9.0 da rocketseat
  
 
-## :nerd_face: Sobre a api
+## :astronaut: Sobre a api
 
 A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi desenvolvido uma api que será consumida por uma aplicação web e mobile.
 
