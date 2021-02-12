@@ -1,16 +1,20 @@
-# Gobarber_backend
+# :rocket: Gobarber_backend
  API do gobarber em NodeJs, desenvolvida no Bootcamp GoStack 9.0 da rocketseat
  
 
-## :rocket: Sobre a api
+## :heavy_exclamation_mark: Sobre a api
 
 A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi desenvolvido uma api que será consumida por uma aplicação web e mobile.
 
 ##### Essa api tem como principais funções:
--
--
--
--
+- Criação e gestão de perfis de prestadores de serviços e usuário da aplicação.
+- Criação de rotas privadas e públicas.
+- Autenticação de usuários com JWT.
+- Conexão com bancos de dados: postgresql, mongoDB e redis.
+- Distribuição de emails para prestadores de serviço.
+
+Rotas:
+
 
 ## 📁 Instalação
 
