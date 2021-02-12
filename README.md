@@ -8,12 +8,11 @@ A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi
 
 ##### Essa api tem como principais funções:
 - Criação e gestão de perfis de prestadores de serviços e usuário da aplicação.
+- Criação e gestão de agendamentos de serviços.
 - Criação de rotas privadas e públicas.
 - Autenticação de usuários com JWT.
 - Conexão com bancos de dados: postgresql, mongoDB e redis.
-- Distribuição de emails para prestadores de serviço.
-
-Rotas:
+- Distribuição de emails aos prestadores de serviço.
 
 
 ## 📁 Instalação
