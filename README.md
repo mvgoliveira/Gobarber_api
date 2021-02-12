@@ -31,6 +31,12 @@ A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi
   yarn dev
 ```
 
+## **📝 Licença**
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mvgoliveira/gobarber_api/LICENSE.md) para mais detalhes.
+
+---
+
 <hr>
 
 Feito com :hearts: por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
