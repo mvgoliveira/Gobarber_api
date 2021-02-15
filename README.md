@@ -12,7 +12,7 @@ A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi
 - Criação de rotas privadas e públicas.
 - Autenticação de usuários com JWT.
 - Conexão com bancos de dados: postgresql, mongoDB e redis.
-- Distribuição de emails aos prestadores de serviço.
+- Distribuição de emails aos prestadores de serviço com fila via bee-queue.
 
 
 ### 📁 Instalação
@@ -29,6 +29,7 @@ A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi
 
   #  divirta-se!
   yarn dev
+  yarn queue
 ```
 
 
