@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 <hr>
 
-Feito com :hearts: por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
+Feito com :hearts: por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**.
