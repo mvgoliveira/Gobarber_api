@@ -26,6 +26,12 @@ A Fase 02 do GoStack 9.0 teve como finalidade o dominio do NodeJs, para isso foi
 
   #  baixe as dependências
   yarn
+  
+  #  Crie containers com docker para os bancos de dados
+  Docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres:11
+  Docker run --name mongobarber -p 27017:27017 -d -t mongo
+  Docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
+  Yarn sequelize db:migrate
 
   #  divirta-se!
   yarn dev
